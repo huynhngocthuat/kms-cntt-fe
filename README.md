@@ -1,4 +1,4 @@
-# 19N11-TEAM 4 - Sports: Football Turf Management
+# 19N11-TEAM 7 - Sports: Football Turf Management
 
 ## Video demo:
 - User: https://clipchamp.com/watch/nzdATiAPelh?_ga=2.50978927.758572925.1670902238-910921153.1670902238&fbclid=IwAR3gn3R8v3ocWTZipDpRz1yIC_-vlWYtxzZR223ZZrPqxrykdG9l7NFszLQ
